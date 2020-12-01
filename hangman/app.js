@@ -1,6 +1,6 @@
 //Get words to guess in a array for 3 different difficulties 
 
-//Welcome message || let the user choose diffiluty
+//Welcome message || let the user choose difficulty
 
 //If statement for chosing a different difficulty
 
