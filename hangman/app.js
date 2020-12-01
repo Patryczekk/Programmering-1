@@ -1,16 +1,16 @@
-//Get words to guess in a array for 3 different difficulties 
+//Get words to guess in a array for 3 different difficulties getting 3 different variables for easy, medium, hard.
 
 //Welcome message || let the user choose difficulty
 
 //If statement for chosing a different difficulty
 
-//Get a random word from chosen difficulty array 
+//Get a random word from chosen difficulty array by using "Math.Floor() + arrayLength"
 
-//Split the word and tell the length of a word
+//Split the word with "split" and tell the length of a word (console.log)
 
-//Let the user choose if he is guessing the whole word or a single letter
+//Let the user choose if he is guessing the whole word or a single letter "if statement"
  
-//For loop for tries
+//For loop for tries (no need for extra variables)
 
 //If statement for right/wrong guess on the letter
  
